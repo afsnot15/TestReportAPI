@@ -1,9 +1,8 @@
 # CodeLabAPITemplate
 
-Este é um template para criação de uma API do CodeLab. Utilize este template para criar sua API NestJSS dentro
-de um Docker container.
-
-Antes de iniciar o projeto a partir do template, verifique os TODO's e substitua pelos valores corretos
+API responsável por receber informações sobre a execução de testes automatizados realizados através de ferramentas como QF-Test. 
+Ela permite que os usuários enviem dados de teste, incluindo resultados de teste, logs de teste, informações de erro e muito mais. 
+Esta API é especialmente útil para integrar os resultados de seus testes automatizados em um local centralizado para análise e relatório
 
 ## Development Start
 
